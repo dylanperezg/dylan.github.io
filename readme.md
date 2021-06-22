@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## EL MANICOMIO 
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -34,9 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: https://github.com/dylanperezg
 - Instagram: https://www.instagram.com/dylanperezg/
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
-# 2. Memoria del proyecto 
+**Memoria del proyecto**
 
 ### 2.1 Storyboard: 
 
