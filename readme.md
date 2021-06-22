@@ -11,6 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : El Manicomio (The Canibal Virus)
 
 **Web:**  (urhttps://github.com/dylanperezg/dylan.github.io
+
 **Autor:**  Dylan Pérez González
 
 **Resumen** :  Este proyecto trata de una historia interactiva en la que conforme va avanzando la historia, el lector puede interactuar en ella. La historia relatada está basada en una de mis pesadillas. En el juego se da a elegir entre dos protagonistas: uno masculino y otro femenino. Hay que ir eligiendo opciones y si se elige la incorrecta, game over. Para saber el final de la historia, hay que pasarse el juego.
