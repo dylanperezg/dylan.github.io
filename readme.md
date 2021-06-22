@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : El Manicomio (The Canibal Virus)
 
-**Web:**  (urhttps://github.com/dylanperezg/dylan.github.io
+**Web:**  https://github.com/dylanperezg/dylan.github.io
 
 **Autor:**  Dylan Pérez González
 
@@ -54,6 +54,7 @@ El/La protagonista se encuentra en un manicomio en el cual ha habido una especie
 **Investigación de campo** 
 
 -Guión literario y Storyboard de "Caníbal", proyecto escrito por mí en 2020.
+
 -Juegos de novelas interactivas de alumnos de otros años en GitHub
 
 
@@ -72,8 +73,11 @@ Este proyecto es interesante porque he podido hacer un juego a partir de mis pes
 ### Etapa 2: Desarrollo / actividades realizadas
 
 •	Juego: Se han colocado botones para escoger las opciones, para pasar a la siguiente escena, texto, música, imágenes…
+
 •	Video: Se colocaron dos vídeos de youtube de más historias espeluznantes interesantes.
+
 •	Instrucciones y ayuda al usuario: Se usaron un par de veces para intentar solucionar algún error y al principio para buscar cómo dar alguna función a algún botón.
+
 •	Menús y elementos de navegación (botones): Algunos problemas con el tema de cambiar lo de “Booleano” o para poner lo de “true”. O incluso hubo confusiones para cuándo poner las comillas en los números.
 
 
